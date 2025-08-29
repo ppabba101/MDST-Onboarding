@@ -55,20 +55,20 @@ The definition of success for us is to have everyone who begins the tutorials fi
 * OHs are not mandatory
 
 Tutorial Overview (9/5, 6-7 PM)
-TBD
+2448 MH
 
 Office Hours #1 (9/9, 6-8 PM) 
-2448 MH (booked 6-8 PM)
+2448 MH 
 
 Office Hours #2 (9/12, 5-7 PM) 
-2448 MH (booked 5-7 PM)
+2448 MH 
 
 
 ## Submission
 
 **Due: 09/15/2025 11:59pm EST**
 
-Submitting checkpoints: TBD
+Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfalQJnQ9-05xu0drsPsn7aKMYD9Xe9caCjRj87S1HCsH69EQ/viewform?usp=header)
 
 We are looking for:
 
